@@ -1044,7 +1044,7 @@ a {
 @media (max-width: 610px) {
   .projects__slider {
     margin-bottom: 20px;
-    height: 365px;
+    height: 280px;
   }
 }
 .projects__slide {
